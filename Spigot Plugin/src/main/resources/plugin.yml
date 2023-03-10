@@ -1,0 +1,4 @@
+name: Spigot Plugin
+version: '${project.version}'
+main: pinkyneel.dev.SpigotPlugin
+api-version: 1.19
